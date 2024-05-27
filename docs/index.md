@@ -16,7 +16,7 @@ There are two resources.
 
 ## Quickstart
 
-[Quickstart _(coming comingsoon)_](#quickstart) with the Dog Patrol service to see how easy it is to use!
+[Quickstart _(coming soon)_](#quickstart) with the Dog Patrol service to see how easy it is to use!
 
 ## Tutorials
 
