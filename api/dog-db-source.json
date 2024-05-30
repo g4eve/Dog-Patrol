@@ -1,0 +1,98 @@
+{
+  "dog_sitter": [
+    {
+      "last_name": "Smith",
+      "first_name": "Ferdinand",
+      "email": "f.smith@example.com",
+      "phone":"416-555-1213",
+      "id": 1,
+      "city": "Toronto",
+      "available": "mornings"
+    },
+    {
+      "last_name": "Jones",
+      "first_name": "Jill",
+      "email": "j.jones@example.com",
+      "phone":"416-555-1212",
+      "id": 2,
+      "city": "Toronto",
+      "available": "evenings"
+    },
+    {
+      "last_name": "Martinez",
+      "first_name": "Marty",
+      "email": "m.martinez@example.com",
+      "phone":"416-555-1214",
+      "id": 3,
+      "city": "Toronto",
+      "available": "weekends"
+    },
+    {
+      "last_name": "Bailey",
+      "first_name": "Bill",
+      "email": "b.bailey@example.com",
+      "phone":"416-555-1215",
+      "id": 4,
+      "city": "Toronto",
+      "available": "overnight"
+    }
+  ],
+  "dog_jobs": [
+    {
+      "shift_id": 1,
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-06",
+      "start_time": "0700",
+      "end_time": "0900",
+      "number_dogs": "3",
+      "warning": "can handle big dogs",
+      "description": "walk and run dogs in the morning for 5 days in a row",
+      "location_city": "Toronto",
+      "location_area": "Eglington station",
+      "pay": "$20 per hour",
+      "email": "jack@yopmail.com"
+    },
+    {
+      "shift_id": 2,
+      "start_date": "2024-06-07",
+      "end_date": "2024-06-09",
+      "start_time": "0700",
+      "end_time": "1800",
+      "number_dogs": "2",
+      "warning": "must house sit for two nights",
+      "description": "24 hour care for two days",
+      "location_city": "Toronto",
+      "location_area": "North York",
+      "pay": "$30 per hour",
+      "email": "mary@yopmail.com"
+    },
+    {
+      "shift_id": 3,
+      "start_date": "2024-06-10",
+      "end_date": "2024-06-11",
+      "start_time": "0600",
+      "end_time": "1800",
+      "number_dogs": "2",
+      "warning": "must house sit for 12 hours",
+      "description": "must be free two walk in the morning and early evening",
+      "location_city": "Toronto",
+      "location_area": "Queens park",
+      "pay": "$30 per hour",
+      "email": "james@yopmail.com"
+    },
+    {
+      "shift_id": 4,
+      "start_date": "2024-06-114",
+      "end_date": "2024-06-19",
+      "start_time": "0600",
+      "end_time": "1800",
+      "number_dogs": "1",
+      "warning": "big dog weighs 35 kgs",
+      "description": "come to my house for morning and evening walks",
+      "location_city": "Toronto",
+      "location_area": "Lakeshore West",
+      "pay": "$35 per hour",
+      "email": "jamie@yopmail.com"
+    }
+  ]
+}
