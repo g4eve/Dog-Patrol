@@ -28,17 +28,17 @@ Before you get strated, complete this prerequisite tutorial to set up your devel
 
 After your system is ready, select a tutorial and learn how to perform common tasks.
 
-### Dog Jobs
-* [Create a job post _(coming soon)_](tutorials/add-a-new-job-post)
-* [Edit a job post _(coming soon)_](tutorials/edit-a-job-post)
-* [Delete a job post _(coming soon)_](tutorials/delete-a-job-post)
-* [Find a job post by a property _(coming soon)_](tutorials/get-a-job-post)
-
 ### Dog Sitters
 * [Enroll a new dog sitter](tutorials/enroll-a-dog-sitter.md)
 * [Update a dog sitter's information _(coming soon)_](tutorials/edit-a-dog-sitter)
 * [Delete a dog sitter _(coming soon)_](tutorials/delete-a-dog-sitter)
 * [Find a dog sitter by a property _(coming soon)_](tutorials/get-a-dog-sitter)
+
+### Dog Jobs
+* [Create a job post _(coming soon)_](tutorials/add-a-new-job-post)
+* [Edit a job post _(coming soon)_](tutorials/edit-a-job-post)
+* [Delete a job post _(coming soon)_](tutorials/delete-a-job-post)
+* [Find a job post by a property _(coming soon)_](tutorials/get-a-job-post)
 
 ## API reference docs
 
@@ -49,4 +49,4 @@ refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service. When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
 
 * [Dog Jobs resource](api/dog-jobs)
-* [Dog Sitters resource](api/dog-sitters)
+* [Dog Sitters resource](../api/dog-sitter.md)
