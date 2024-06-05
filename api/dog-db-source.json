@@ -7,7 +7,8 @@
       "phone":"416-555-1213",
       "id": 1,
       "city": "Toronto",
-      "available": "mornings"
+      "available day": "weekday",
+      "available time": "mornings"
     },
     {
       "last_name": "Jones",
@@ -16,7 +17,8 @@
       "phone":"416-555-1212",
       "id": 2,
       "city": "Toronto",
-      "available": "evenings"
+      "available day": "weekday",
+      "available time": "night"
     },
     {
       "last_name": "Martinez",
@@ -25,7 +27,8 @@
       "phone":"416-555-1214",
       "id": 3,
       "city": "Toronto",
-      "available": "weekends"
+      "available day": "weekend",
+      "available time": "afternoon"
     },
     {
       "last_name": "Bailey",
@@ -34,7 +37,8 @@
       "phone":"416-555-1215",
       "id": 4,
       "city": "Toronto",
-      "available": "overnight"
+      "available day": "both",
+      "available time": "all"
     }
   ],
   "dog_jobs": [
@@ -44,12 +48,12 @@
       "end_date": "2024-06-06",
       "start_time": "0700",
       "end_time": "0900",
-      "number_dogs": "3",
-      "warning": "can handle big dogs",
-      "description": "walk and run dogs in the morning for 5 days in a row",
+      "number_dogs": 3,
+      "note": "can handle big dogs",
+      "requirement": "walk and run dogs in the morning for 5 days in a row",
       "location_city": "Toronto",
       "location_area": "Eglington station",
-      "pay": "$20 per hour",
+      "pay": 20,
       "email": "jack@yopmail.com"
     },
     {
@@ -58,12 +62,12 @@
       "end_date": "2024-06-09",
       "start_time": "0700",
       "end_time": "1800",
-      "number_dogs": "2",
-      "warning": "must house sit for two nights",
-      "description": "24 hour care for two days",
+      "number_dogs": 2,
+      "note": "must house sit for two nights",
+      "requirement": "24 hour care for two days",
       "location_city": "Toronto",
       "location_area": "North York",
-      "pay": "$30 per hour",
+      "pay": 30,
       "email": "mary@yopmail.com"
     },
     {
@@ -72,12 +76,12 @@
       "end_date": "2024-06-11",
       "start_time": "0600",
       "end_time": "1800",
-      "number_dogs": "2",
-      "warning": "must house sit for 12 hours",
-      "description": "must be free two walk in the morning and early evening",
+      "number_dogs": 2,
+      "note": "must house sit for 12 hours",
+      "requirement": "must be free two walk in the morning and early evening",
       "location_city": "Toronto",
       "location_area": "Queens park",
-      "pay": "$30 per hour",
+      "pay": 30,
       "email": "james@yopmail.com"
     },
     {
@@ -86,12 +90,12 @@
       "end_date": "2024-06-19",
       "start_time": "0600",
       "end_time": "1800",
-      "number_dogs": "1",
-      "warning": "big dog weighs 35 kgs",
-      "description": "come to my house for morning and evening walks",
+      "number_dogs": 1,
+      "note": "big dog weighs 35 kgs",
+      "requirement": "come to my house for morning and evening walks",
       "location_city": "Toronto",
       "location_area": "Lakeshore West",
-      "pay": "$35 per hour",
+      "pay": 35,
       "email": "jamie@yopmail.com"
     }
   ]
