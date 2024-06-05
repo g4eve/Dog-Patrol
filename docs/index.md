@@ -49,4 +49,4 @@ refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service. When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
 
 * [Dog Jobs resource](api/dog-jobs)
-* [Dog Sitters resource](api/dog-sitter.md)
+* [Dog Sitters resource](/api/dog-sitter.md)

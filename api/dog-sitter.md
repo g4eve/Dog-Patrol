@@ -52,7 +52,7 @@ The `dog sitter` resource supports these operations.
 
 ### CREATE (POST)
 
-* [Enroll a new dog sitter](../docs/enroll-a-dog-sitter)
+* [Enroll a new dog sitter](../docs/tutorials/enroll-a-dog-sitter.md)
 
 ### UPDATE (PUT/PATCH)
 
