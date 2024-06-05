@@ -28,7 +28,7 @@
       "city": "Toronto",
       "available day": "weekend",
       "available time": "afternoon",
-      "id": 3,
+      "id": 3
     },
     {
       "last_name": "Bailey",
@@ -38,7 +38,7 @@
       "city": "Toronto",
       "available day": "both",
       "available time": "all",
-      "id": 4,
+      "id": 4
     }
   ],
   "dog_jobs": [
