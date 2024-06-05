@@ -24,7 +24,7 @@ Learn how to do common tasks with in the Dog Patrol service.
 
 Before you get strated, complete this prerequisite tutorial to set up your development. You only have to do this one time per development system.
 
-* [Before you start a tutorial _(coming soon)_](tutorials/before-you-start-a-tutorial)
+* [Before you start a tutorial](tutorials/before-you-start-a-tutorial)
 
 After your system is ready, select a tutorial and learn how to perform common tasks.
 
@@ -35,7 +35,7 @@ After your system is ready, select a tutorial and learn how to perform common ta
 * [Find a job post by a property _(coming soon)_](tutorials/get-a-job-post)
 
 ### Dog Sitters
-* [Create a new dog sitter _(coming soon)_](tutorials/create-a-new-dog-sitter)
+* [Enroll a new dog sitter _(coming soon)_](tutorials/enroll-a-dog-sitter)
 * [Update a dog sitter's information _(coming soon)_](tutorials/edit-a-dog-sitter)
 * [Delete a dog sitter _(coming soon)_](tutorials/delete-a-dog-sitter)
 * [Find a dog sitter by a property _(coming soon)_](tutorials/get-a-dog-sitter)
