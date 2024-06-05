@@ -13,12 +13,12 @@ Expect this tutorial to take about 15 minutes to complete.
 Make sure you've completed the [Before you start a tutorial](before-you-start-a-tutorial) topic on the development system you'll use for the tutorial.
 
 ## Enroll a new dog sitter
-You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sitter`](../api/dog-sitter) resource containing the dog sitter's details.
+You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sitter`](../api/dog-sitter.md) resource containing the dog sitter's details.
 
 1. If your local service is not running, start it.
 
     ```shell
-    cd <your-github-workspace>/dpg-patrol/api
+    cd <your-github-workspace>/dog-patrol/api
     # Run the service and monitor its database file for updates
     json-server -w dog-db-source.json
     ```
@@ -60,4 +60,4 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
 
 ## Related Topics
 
-* [Dog sitter resource](../api/dog-sitter)
+* [Dog sitter resource](../api/dog-sitter.md)
