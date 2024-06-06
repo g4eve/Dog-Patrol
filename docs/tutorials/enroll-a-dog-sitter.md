@@ -52,7 +52,7 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
         "email": "m.bennett@example.com",
         "phone":"226-414-9876",
         "city": "North York",
-        "available day": "weekday"
+        "available day": "weekday",
         "available time": "morning"
         "id": 6
     }
