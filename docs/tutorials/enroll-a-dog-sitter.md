@@ -25,7 +25,7 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
 2. Open the Postman app on your desktop.
 3. In the Postman app, create a new request with these values:
     * **METHOD**: POST
-    * **URL**: `{{base_url}}/dog-sitter`
+    * **URL**: `{{base_url}}/dog_sitter`
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:
@@ -38,7 +38,7 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
             "email": "m.bennett@example.com",
             "phone":"226-414-9876",
             "city": "North York",
-            "available day": "weekend"
+            "available day": "weekend",
             "available time": "morning"
         }
         ```

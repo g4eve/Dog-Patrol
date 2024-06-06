@@ -4,41 +4,41 @@
       "last_name": "Smith",
       "first_name": "Ferdinand",
       "email": "f.smith@example.com",
-      "phone":"416-555-1213",
+      "phone": "416-555-1213",
       "city": "Toronto",
       "available day": "weekday",
       "available time": "morning",
-      "id": 1
+      "id": "1"
     },
     {
       "last_name": "Jones",
       "first_name": "Jill",
       "email": "j.jones@example.com",
-      "phone":"416-555-1212",
+      "phone": "416-555-1212",
       "city": "Toronto",
       "available day": "weekday",
       "available time": "night",
-      "id": 2
+      "id": "2"
     },
     {
       "last_name": "Martinez",
       "first_name": "Marty",
       "email": "m.martinez@example.com",
-      "phone":"416-555-1214",
+      "phone": "416-555-1214",
       "city": "Toronto",
       "available day": "weekend",
       "available time": "afternoon",
-      "id": 3
+      "id": "3"
     },
     {
       "last_name": "Bailey",
       "first_name": "Bill",
       "email": "b.bailey@example.com",
-      "phone":"416-555-1215",
+      "phone": "416-555-1215",
       "city": "Toronto",
       "available day": "both",
       "available time": "all",
-      "id": 4
+      "id": "4"
     }
   ],
   "dog_jobs": [
@@ -54,7 +54,8 @@
       "location_city": "Toronto",
       "location_area": "Eglington station",
       "pay": 20,
-      "email": "jack@yopmail.com"
+      "email": "jack@yopmail.com",
+      "id": "5aaf"
     },
     {
       "shift_id": 2,
@@ -68,7 +69,8 @@
       "location_city": "Toronto",
       "location_area": "North York",
       "pay": 30,
-      "email": "mary@yopmail.com"
+      "email": "mary@yopmail.com",
+      "id": "0838"
     },
     {
       "shift_id": 3,
@@ -82,7 +84,8 @@
       "location_city": "Toronto",
       "location_area": "Queens park",
       "pay": 30,
-      "email": "james@yopmail.com"
+      "email": "james@yopmail.com",
+      "id": "4651"
     },
     {
       "shift_id": 4,
@@ -96,7 +99,18 @@
       "location_city": "Toronto",
       "location_area": "Lakeshore West",
       "pay": 35,
-      "email": "jamie@yopmail.com"
+      "email": "jamie@yopmail.com",
+      "id": "744b"
+    },
+    {
+      "id": "b77a",
+      "last_name": "Mae",
+      "first_name": "Bennett",
+      "email": "m.bennett@example.com",
+      "phone": "226-414-9876",
+      "city": "North York",
+      "available day": "weekend",
+      "available time": "morning"
     }
   ]
 }
