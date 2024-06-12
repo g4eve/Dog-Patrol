@@ -43,6 +43,8 @@ Sample `dog jobs` resource
 | `requirement` | string | The necessary condition that a dog sitter should meet |
 | `location_city` | string | The city where the dog owner is located |
 | `location_area` | string | The specific area within the city |
+| `pay` | number | The hourly rate in CAD |
+| `email` | string | The email address of the dog owner |
 | `id` | number | The dog job's unique record ID |
 
 ## Operations
@@ -51,25 +53,21 @@ The `dog jobs` resource supports these operations.
 
 ### READ (GET)
 
-* Get all dog jobs
-* Get a dog job by ID
-* Get a dog job by city
-* Get a dog job by area
-* Get a dog job by start date
-* Get a dog job by number of dogs
+* [Get all dog jobs](/docs/api/get-all-dog-jobs.md)
+* [Get a dog job by ID](api/get-job-by-id.md)
+* [Get a dog job by city](get-job-by-city.md)
+* [Get a dog job by area](get-job-by-area.md)
+* [Get a dog job by start date](get-job-by-strat-date.md)
+* [Get a dog job by number of dogs](get-job-by-number-dogs.md)
 
 ### CREATE (POST)
 
-* Create a new dog job
+* [Create a new dog job](create-dog-job.md)
 
 ### UPDATE (PUT/PATCH)
 
-* Update dog job date
-* Update dog job time
-* Update dog job note
-* Update dog job requirement
-
+* [Update dog job by ID](update-job-by-id.md)
 
 ### DELETE
 
-* Delete a dog job by ID
+* [Delete a dog job by ID](delete-job-by-id.md)
