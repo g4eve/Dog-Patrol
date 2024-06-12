@@ -36,7 +36,7 @@ You can enroll a new user in the Dog Patrol service. To do so, `POST` a new [`do
             "last_name": "Mae",
             "first_name": "Bennett",
             "email": "m.bennett@example.com",
-            "phone":"226-414-9876",
+            "phone": "226-414-9876",
             "city": "North York",
             "available day": "weekend",
             "available time": "morning"
