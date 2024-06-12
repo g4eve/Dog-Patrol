@@ -13,4 +13,4 @@ GET
 ## URL
 
 ```shell
-{server_url}/dog_jobs/{start_date}
+{server_url}/dog_jobs?start_date={value}
