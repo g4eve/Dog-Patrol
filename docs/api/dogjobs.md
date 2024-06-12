@@ -53,8 +53,8 @@ The `dog jobs` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all dog jobs](/docs/api/get-all-dog-jobs.md)
-* [Get a dog job by ID](api/get-job-by-id.md)
+* [Get all dog jobs](get-all-dog-jobs.md)
+* [Get a dog job by ID](get-job-by-id.md)
 * [Get a dog job by city](get-job-by-city.md)
 * [Get a dog job by area](get-job-by-area.md)
 * [Get a dog job by start date](get-job-by-strat-date.md)

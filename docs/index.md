@@ -35,4 +35,4 @@ refer to the URL of a resource. The `{server_url}` value depends
 on the installation of the service. When run locally for testing, the `{_url}` is generally `http://localhost:3000`.
 
 * [Dog Jobs resource](api/dogjobs.md)
-* [Dog Sitter resource](api/dog-sitter.md)
+* [Dog Sitter resource](api/dogsitter.md)
