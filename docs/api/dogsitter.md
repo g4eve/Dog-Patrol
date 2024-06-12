@@ -6,7 +6,7 @@ layout: page
 Base endpoint:
 
 ```shell
-{server_url}/dog-sitter
+{server_url}/dog_sitter
 ```
 
 Contains information about the dog sitters enrolled in the service.

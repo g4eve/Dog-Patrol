@@ -43,7 +43,6 @@
   ],
   "dog_jobs": [
     {
-      "shift_id": 1,
       "start_date": "2024-06-01",
       "end_date": "2024-06-06",
       "start_time": "0700",
@@ -58,7 +57,6 @@
       "id": "5aaf"
     },
     {
-      "shift_id": 2,
       "start_date": "2024-06-07",
       "end_date": "2024-06-09",
       "start_time": "0700",
@@ -73,7 +71,6 @@
       "id": "0838"
     },
     {
-      "shift_id": 3,
       "start_date": "2024-06-10",
       "end_date": "2024-06-11",
       "start_time": "0600",
@@ -88,7 +85,6 @@
       "id": "4651"
     },
     {
-      "shift_id": 4,
       "start_date": "2024-06-114",
       "end_date": "2024-06-19",
       "start_time": "0600",
@@ -103,7 +99,6 @@
       "id": "744b"
     },
     {
-      "id": "b77a",
       "last_name": "Mae",
       "first_name": "Bennett",
       "email": "m.bennett@example.com",

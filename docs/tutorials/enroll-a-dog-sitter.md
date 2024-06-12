@@ -13,7 +13,7 @@ Expect this tutorial to take about 15 minutes to complete.
 Make sure you've completed the [Before you start a tutorial](before-you-start-a-tutorial) topic on the development system you'll use for the tutorial.
 
 ## Enroll a new dog sitter
-You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sitter`](/api/dog-sitter.md) resource containing the dog sitter's details.
+You can enroll a new user in the Dog Patrol service. To do so, `POST` a new [`dog sitter`](/api/dogsitter.md) resource containing the dog sitter's details.
 
 1. If your local service is not running, start it.
 
@@ -25,7 +25,7 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
 2. Open the Postman app on your desktop.
 3. In the Postman app, create a new request with these values:
     * **METHOD**: POST
-    * **URL**: `{{base_url}}/dog_sitter`
+    * **URL**: `{{server_url}}/dog_sitter`
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:
@@ -60,4 +60,4 @@ You can enroll a new user in the To-Do service. To do so, `POST` a new [`dog sit
 
 ## Related Topics
 
-* [Dog sitter resource](/api/dog-sitter.md)
+* [Dog sitter resource](/api/dogsitter.md)
