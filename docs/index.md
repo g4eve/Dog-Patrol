@@ -16,7 +16,7 @@ There are two resources.
 
 ## Quickstart
 
-[Quickstart _(coming soon)_](#quickstart) with the Dog Patrol service to see how easy it is to use!
+[Quickstart](../docs/api/quickstart.md) with the Dog Patrol service to see how easy it is to use!
 
 ## Tutorials
 
@@ -26,27 +26,17 @@ Before you get strated, complete this prerequisite tutorial to set up your devel
 
 * [Before you start a tutorial](tutorials/before-you-start-a-tutorial)
 
-After your system is ready, select a tutorial and learn how to perform common tasks.
+After your system is ready, try the following tutorial and learn how to perform common tasks.
 
-### Dog Sitters
 * [Enroll a new dog sitter](tutorials/enroll-a-dog-sitter.md)
-* [Update a dog sitter's information _(coming soon)_](tutorials/edit-a-dog-sitter)
-* [Delete a dog sitter _(coming soon)_](tutorials/delete-a-dog-sitter)
-* [Find a dog sitter by a property _(coming soon)_](tutorials/get-a-dog-sitter)
-
-### Dog Jobs
-* [Create a job post _(coming soon)_](tutorials/add-a-new-job-post)
-* [Edit a job post _(coming soon)_](tutorials/edit-a-job-post)
-* [Delete a job post _(coming soon)_](tutorials/delete-a-job-post)
-* [Find a job post by a property _(coming soon)_](tutorials/get-a-job-post)
 
 ## API reference docs
 
 Detailed descriptions of the service's resources.
 
-The API reference docs refer to a `{base_url}` when they
-refer to the URL of a resource. The `{base_url}` value depends
-on the installation of the service. When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.
+The API reference docs refer to a `{server_url}` when they
+refer to the URL of a resource. The `{server_url}` value depends
+on the installation of the service. When run locally for testing, the `{_url}` is generally `http://localhost:3000`.
 
-* [Dog Job resource](docs/api/dog-sitter.md)
+* [Dog Jobs resource](api/dogjobs.md)
 * [Dog Sitter resource](api/dog-sitter.md)
