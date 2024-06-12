@@ -45,10 +45,10 @@ The `dog sitter` resource supports these operations.
 
 ### READ (GET)
 
-* Get all dog sitters
-* Get a dog sitter by ID
-* Get a dog sitter by Email
-* Get a dog sitter by first name
+* [Get all dog sitters](get-all-dog-sitters.md)
+* [Get a dog sitter by ID](get-sitter-by-id.md)
+* [Get a dog sitter by city](get-sitter-by-city.md)
+* [Get a dog sitter by first name](get-sitter-by-first-name.md)
 
 ### CREATE (POST)
 
@@ -56,8 +56,8 @@ The `dog sitter` resource supports these operations.
 
 ### UPDATE (PUT/PATCH)
 
-* Change dog sitter property
+* [Change a dog sitter property by ID](update-sitter-by-id.md)
 
 ### DELETE
 
-* Delete a dog sitter by ID
+* [Delete a dog sitter by ID](delete-sitter-by-id.md)
