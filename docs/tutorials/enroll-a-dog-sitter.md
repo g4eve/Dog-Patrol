@@ -25,7 +25,7 @@ You can enroll a new user in the Dog Patrol service. To do so, `POST` a new [`do
 2. Open the Postman app on your desktop.
 3. In the Postman app, create a new request with these values:
     * **METHOD**: POST
-    * **URL**: `{{server_url}}/dog_sitter`
+    * **URL**: `{server_url}/dog_sitter`
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:

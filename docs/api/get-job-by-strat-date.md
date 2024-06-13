@@ -14,3 +14,4 @@ GET
 
 ```shell
 {server_url}/dog_jobs?start_date={value}
+```

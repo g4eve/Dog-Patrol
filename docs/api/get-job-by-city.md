@@ -14,3 +14,4 @@ GET
 
 ```shell
 {server_url}/dog_jobs?location_city={value}
+```
