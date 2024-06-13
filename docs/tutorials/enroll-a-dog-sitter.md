@@ -60,4 +60,4 @@ You can enroll a new user in the Dog Patrol service. To do so, `POST` a new [`do
 
 ## Related Topics
 
-* [Dog sitter resource](/api/dogsitter.md)
+* [Dog sitter resource](../api/dogsitter.md)
