@@ -17,6 +17,9 @@ There are two resources.
 ## Quickstart
 
 [Quickstart](../docs/api/quickstart.md) with the Dog Patrol service to see how easy it is to use!
+[Quickstart](/docs/api/quickstart.md) with the Dog Patrol service to see how easy it is to use!
+[Quickstart](/api/quickstart.md) with the Dog Patrol service to see how easy it is to use!
+[Quickstart](../api/quickstart.md) with the Dog Patrol service to see how easy it is to use!
 
 ## Tutorials
 
