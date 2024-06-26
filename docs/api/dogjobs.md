@@ -37,7 +37,7 @@ Sample `dog jobs` resource
 | `start_date` | string | The start date of the dog sitting job |
 | `end_date` | string | The end date of the dog sitting job |
 | `start_time` | string | The start time of the start date |
-| `end_time` | string | The end time of the end date  |
+| `end_time` | string | The end time of the end date |
 | `number_dogs` | number | The number dogs to be taken care of |
 | `note` | string | The job description |
 | `requirement` | string | The necessary condition that a dog sitter should meet |
@@ -70,4 +70,4 @@ The `dog jobs` resource supports these operations.
 
 ### DELETE
 
-* [Delete a dog job by ID](delete-job-by-id.md)
+* [Delete a dog job by ID (Complete)](delete-job-by-id.md)

@@ -41,7 +41,7 @@ PATCH
 curl --location --request PATCH 'http://localhost:3000/dog_jobs/4' \
 --header 'Content-Type: application/json' \
 --data '{
-    "status": "1900"
+    "end_time": "1900"
 }'
 ```
 

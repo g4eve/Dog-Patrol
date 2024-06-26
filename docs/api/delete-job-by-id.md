@@ -42,14 +42,14 @@ DELETE
       "location_city": "Toronto",
       "location_area": "Eglington station",
       "pay": 20,
-      "email": "jack@yopmail.com",
+      "email": "jack@yopmail.com"
 }
 ```
 
 ```
 
 ```bash
-curl --location --request DELETE 'http://localhost:3000/shifts/1' \
+curl --location --request DELETE 'http://localhost:3000/dog_jobs/1' \
 --header 'Content-Type: application/json' \
 --data '{
       "start_date": "2024-06-01",
@@ -62,7 +62,7 @@ curl --location --request DELETE 'http://localhost:3000/shifts/1' \
       "location_city": "Toronto",
       "location_area": "Eglington station",
       "pay": 20,
-      "email": "jack@yopmail.com",
+      "email": "jack@yopmail.com"
 }'
 ```
 
@@ -80,7 +80,7 @@ curl --location --request DELETE 'http://localhost:3000/shifts/1' \
       "location_city": "Toronto",
       "location_area": "Eglington station",
       "pay": 20,
-      "email": "jack@yopmail.com",
+      "email": "jack@yopmail.com"
 }
 ```
 

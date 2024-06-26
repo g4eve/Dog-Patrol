@@ -35,8 +35,8 @@ Sample `dog sitter` resource
 | `email` | string | The dog sitter's email address |
 | `phone` | string | The dog sitter's phone number |
 | `city` | string | The dog sitter's geographical location |
-| `available day` | string | The days that the dog sitter is available (weekday, weekend, or both)|
-| `available time` | string | The time that the dog sitter is available (morning, afteroon, night, or all) |
+| `available_day` | string | The days that the dog sitter is available (weekday, weekend, or both)|
+| `available_time` | string | The time that the dog sitter is available (morning, afteroon, night, or all) |
 | `id` | number | The dog sitter's unique record ID |
 
 ## Operations
@@ -45,9 +45,9 @@ The `dog sitter` resource supports these operations.
 
 ### READ (GET)
 
+* [Get a dog sitter by city (Complete)](get-sitter-by-city.md)
 * [Get all dog sitters](get-all-dog-sitters.md)
 * [Get a dog sitter by ID](get-sitter-by-id.md)
-* [Get a dog sitter by city](get-sitter-by-city.md)
 * [Get a dog sitter by first name](get-sitter-by-first-name.md)
 
 ### CREATE (POST)
@@ -56,8 +56,8 @@ The `dog sitter` resource supports these operations.
 
 ### UPDATE (PUT/PATCH)
 
-* [Change a dog sitter property by ID](update-sitter-by-id.md)
+* [Change a dog sitter property by ID (Complete)](update-sitter-by-id.md)
 
 ### DELETE
 
-* [Delete a dog sitter by ID](delete-sitter-by-id.md)
+* [Delete a dog sitter by ID (Complete)](delete-sitter-by-id.md)
