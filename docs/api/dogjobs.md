@@ -37,7 +37,7 @@ Sample `dog jobs` resource
 | `start_date` | string | The start date of the dog sitting job |
 | `end_date` | string | The end date of the dog sitting job |
 | `start_time` | string | The start time of the start date |
-| `end_time` | string | The end date of the end date  |
+| `end_time` | string | The end time of the end date  |
 | `number_dogs` | number | The number dogs to be taken care of |
 | `note` | string | The job description |
 | `requirement` | string | The necessary condition that a dog sitter should meet |
@@ -53,20 +53,20 @@ The `dog jobs` resource supports these operations.
 
 ### READ (GET)
 
+* [Get a dog job by city (Complete)](get-job-by-city.md)
 * [Get all dog jobs](get-all-dog-jobs.md)
 * [Get a dog job by ID](get-job-by-id.md)
-* [Get a dog job by city](get-job-by-city.md)
 * [Get a dog job by area](get-job-by-area.md)
 * [Get a dog job by start date](get-job-by-strat-date.md)
 * [Get a dog job by number of dogs](get-job-by-number-dogs.md)
 
 ### CREATE (POST)
 
-* [Create a new dog job](create-dog-job.md)
+* [Create a new dog job (Complete)](create-dog-job.md)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update dog job by ID](update-job-by-id.md)
+* [Update dog job by ID (Complete)](update-job-by-id.md)
 
 ### DELETE
 
